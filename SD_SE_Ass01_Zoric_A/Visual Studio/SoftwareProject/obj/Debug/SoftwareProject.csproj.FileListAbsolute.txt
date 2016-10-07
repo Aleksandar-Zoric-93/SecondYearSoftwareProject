@@ -1,0 +1,117 @@
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.exe.config
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.exe
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.pdb
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.csprojResolveAssemblyReference.cache
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.homePage.resources
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.Properties.Resources.resources
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.csproj.GenerateResource.Cache
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.exe
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.pdb
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.RegisterStaff.resources
+I:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.AmendStaff.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.exe.config
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.exe
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.pdb
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.exe
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.pdb
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.csprojResolveAssemblyReference.cache
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.AmendStaff.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.homePage.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.Properties.Resources.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.RegisterStaff.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.csproj.GenerateResource.Cache
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ListStaff.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.CancelRequest.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.RecordOrder.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.EditOrder.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ListOrder.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.DispatchOrder.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.RecordPayment.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.CancelOrder.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.AddFood.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ChangeFood.resources
+E:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.RemoveFood.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.exe.config
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.exe
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.pdb
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.exe
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\bin\Debug\SoftwareProject.pdb
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.csprojResolveAssemblyReference.cache
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.AddFood.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.AmendStaff.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.CancelOrder.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.CancelRequest.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ChangeFood.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.DispatchOrder.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.EditOrder.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.homePage.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ListOrder.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ListStaff.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.Properties.Resources.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.RecordOrder.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.RecordPayment.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.RegisterStaff.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.RemoveFood.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.csproj.GenerateResource.Cache
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ListFood1.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ViewSales.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ViewCustomer.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ManageSales.resources
+G:\Year_2_Sem_1\Software Engineering\Project\SoftwareProject\SoftwareProject\obj\Debug\SoftwareProject.ManageCustomers.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\bin\Debug\SoftwareProject.exe.config
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.exe
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.pdb
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\bin\Debug\SoftwareProject.exe
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\bin\Debug\SoftwareProject.pdb
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.csprojResolveAssemblyReference.cache
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.AddFood.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.AmendStaff.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.CancelOrder.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.CancelRequest.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ChangeFood.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.DispatchOrder.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.EditOrder.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.homePage.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ListFood1.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ListOrder.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ListStaff.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ManageCustomers.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ManageSales.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.Properties.Resources.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.RecordOrder.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.RecordPayment.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.RegisterStaff.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.RemoveFood.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ViewCustomer.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ViewSales.resources
+C:\Users\t00166011\Desktop\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.csproj.GenerateResource.Cache
+I:\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\bin\Debug\SoftwareProject.exe.config
+I:\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.exe
+I:\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.pdb
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\bin\Debug\SoftwareProject.exe.config
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.exe
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.pdb
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\bin\Debug\SoftwareProject.exe
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\bin\Debug\SoftwareProject.pdb
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.AddFood.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.AmendStaff.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.CancelOrder.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.CancelRequest.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ChangeFood.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.DispatchOrder.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.EditOrder.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.homePage.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ListFood1.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ListOrder.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ListStaff.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ManageCustomers.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ManageSales.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.Properties.Resources.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.RecordOrder.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.RecordPayment.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.RegisterStaff.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.RemoveFood.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ViewCustomer.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.ViewSales.resources
+C:\Users\Aleks\Desktop\College_Backup\Year_2_Sem_1\Software Engineering\SD_SE_Ass01_Zoric_A\Visual Studio\SoftwareProject\obj\Debug\SoftwareProject.csproj.GenerateResource.Cache
